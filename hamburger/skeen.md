@@ -1,5 +1,5 @@
 #Skeen Burger
-======
+
 The meat of the burger should fill the bun, be 1/2" thick after cooking.
 
 This version was based on a recipe 'Skeen Burger' from [Cooking Light magazine](http://www.cookinglight.com/), June 2003.
