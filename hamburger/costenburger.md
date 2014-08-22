@@ -4,8 +4,10 @@ A gourmet burger designed for [Adam Costenbader](http://costrcode.blogspot.com/)
 
 For ten 1/3 lb burgers.
 
-##Overview
+###Overview
 This is a sirloin burger seasoned with hot sauce and apples on a toasted bun. On the bottom is bacon marmalade and fresh cilantro. On the top is crispy bacon and melted gouda with bacon paprika mayo on the bun. Enjoy!
+
+###Ingredients
 
 | Ingredients |
 |---|
@@ -21,6 +23,8 @@ This is a sirloin burger seasoned with hot sauce and apples on a toasted bun. On
 |1 pkg bacon|
 |6 oz shredded apple-wood smoked gouda|
 ===========
+
+###Instructions
 
 1. Cook full package of bacon. Suggest cooking on medium-hot grill in cast iron skillet. Drain twice being careful not to splatter yourself by pouring away from yourself. Set aside.
 2. While bacon cooks, melt 1/4 stick of butter and brush on buns (spray with butter spray if needed). After bacon is done, toast the buns on the grill and set aside.
