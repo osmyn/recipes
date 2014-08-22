@@ -16,7 +16,7 @@ For ten 1/3 lb burgers.
 |1/2 C chunky apple sauce|
 |1 bunch cilantro|
 |1 pkg bacon|
-|6 oz Shredded Apple Wood Smoked Gouda|
+|6 oz shredded apple-wood smoked gouda|
 ===========
 
 1. Cook full package of bacon. Suggest cooking on medium-hot grill in cast iron skillet. Drain twice being careful not to splatter yourself by pouring away from yourself. Set aside.
