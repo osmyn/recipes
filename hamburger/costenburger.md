@@ -4,6 +4,9 @@ A gourmet burger designed for [Adam Costenbader](http://costrcode.blogspot.com/)
 
 For ten 1/3 lb burgers.
 
+##Overview
+This is a sirloin burger seasoned with hot sauce and apples on a toasted bun. On the bottom is bacon marmalade and fresh cilantro. On the top is crispy bacon and melted gouda with bacon paprika mayo on the bun. Enjoy!
+
 | Ingredients |
 |---|
 |1 recipe [Bacon Mayo](https://github.com/osmyn/recipes/blob/master/sauces/bacon_mayo.md)|
