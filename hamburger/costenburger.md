@@ -1,6 +1,6 @@
 #The Costenburger
 
-A gourmet burger designed for [Adam Costenbader](http://costrcode.blogspot.com/) with elements of the (Skeen Burger)[https://github.com/osmyn/recipes/blob/master/hamburger/skeen.md] and [The Best Grilled Burger from Cook's Illustrated August 2014](http://www.cooksillustrated.com/).
+A gourmet burger designed for [Adam Costenbader](http://costrcode.blogspot.com/) with elements of the [Skeen Burger](https://github.com/osmyn/recipes/blob/master/hamburger/skeen.md) and [The Best Grilled Burger from Cook's Illustrated August 2014](http://www.cooksillustrated.com/).
 
 For ten 1/3 lb burgers.
 
