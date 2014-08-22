@@ -4,7 +4,7 @@ Based on a recipen for Garlic Mayonnaise from [The Complete Italian Vegetarian C
 
 | Ingredients |
 |---|
-|1 Large Egg|
+|1 large egg|
 |1 T lemon juice|
 |1/2 t salt, to taste|
 |2 strips crispy bacon|
