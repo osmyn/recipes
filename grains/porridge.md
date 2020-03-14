@@ -1,8 +1,8 @@
-#Refrigerator Porridge
+# Refrigerator Porridge
 
 This easy oatmeal treat is great in the summer, but I like it any time of the year.
 
-###Ingredients
+### Ingredients
 | Ingredients |
 |---|
 |3/4C Old-fashioned oats|
@@ -13,5 +13,5 @@ This easy oatmeal treat is great in the summer, but I like it any time of the ye
 |1/4C Frozen blueberries|
 ===========
 
-###Instructions
+### Instructions
 Take a 12oz Mason jar and fill it with the ingredients. Stir with a spoon and put a lid on the jar and put in the refregerator over night.
