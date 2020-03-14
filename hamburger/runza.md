@@ -5,7 +5,7 @@ This is a classic Nebraskan hamburger-type sandwhich.
 ## Filling
 |Ingredients|
 |---|
-|1 1/2 lb Hamburger|
+|2 lb Hamburger|
 |1/2 Onion, chopped|
 |2 C Sauerkraut, squeezed dry|
 |1 1/2 t Salt|
