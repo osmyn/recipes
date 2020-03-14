@@ -1,4 +1,4 @@
-#Bacon Garlic Paprika Mayonnaise
+# Bacon Garlic Paprika Mayonnaise
 
 Based on a recipen for Garlic Mayonnaise from [The Complete Italian Vegetarian Cookbook](http://www.amazon.com/gp/product/1576300447/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1576300447&linkCode=as2&tag=comywa-20&linkId=JNQ7YR2NWOADAMUT)
 
